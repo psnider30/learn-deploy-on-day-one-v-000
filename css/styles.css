@@ -1,4 +1,5 @@
-
+/*http://imgur.com/hdQDaE5
+http://imgur.com/PtEbdqJ */
 /* GLOBAL STYLES
 ======================== */
 *, *:before, *:after {
@@ -131,6 +132,14 @@ a:visited {
   position: relative;
   display: block;
   height: 400px;
+}
+
+#paul-snider-cover {
+  background-image: url("http://i.imgur.com/THPbNAc.jpg")
+}
+
+#paul-snider-card {
+  background-image: url("http://i.imgur.com/hdQDaE5.jpg")
 }
 
 #irina-afanaseva-cover {
